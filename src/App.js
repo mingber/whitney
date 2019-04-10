@@ -3,7 +3,7 @@ import SpinningSquare from "./SpinningSquare";
 import "./App.css";
 
 const colors = {
-  red: "#db1e1e",
+  red: "#ff0000",
   green: "#05bc8e",
   blue: "#4b81bf"
 };
